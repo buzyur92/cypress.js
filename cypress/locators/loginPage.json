@@ -1,0 +1,5 @@
+{
+    "mailTittle": "#k_email",
+    "mainPassword": "#k_password",
+    "buttonEnter": ".MuiButton-root"
+}
